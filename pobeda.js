@@ -1,5 +1,5 @@
-var images = ["images/win.jpg", "images/lunch.jpg", "images/trouble.jpg",
-    "images/food.jpg", "images/yes.gif", "images/question.jpg", "images/fire.png"];
+var images = ["win.jpg", "lunch.jpg", "trouble.jpg",
+    "food.jpg", "yes.gif", "question.jpg", "fire.png"];
 var bodyImg = document.createElement("img");
 bodyImg.src=images[0];
 console.log(bodyImg);
